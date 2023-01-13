@@ -1,3 +1,7 @@
+Acesse em:
+
+https://raycadilhe.github.io/squad-modulo2-resilia/index.html
+
 <p><h1>The FrontEnders</h1></p>
 
 Formação de um grupo de 5 integrantes para a idealização de um projeto que ajude o dia-a-dia de um Desenvolvedor Front-End
